@@ -15,10 +15,10 @@ Highly experienced software developer with expertise in full-stack development, 
 **Technical Skills**
 -------------------
 
-* Programming languages: C#, JavaScript, NodeJS
+* Programming languages: C#, Java, JavaScript, NodeJS
 * Front-end frameworks: React, NextJS
-* Back-end frameworks: NodeJS, Express
-* Databases: PostgreSQL, MariaDB, PlanetScale, MS SQL Server
+* Back-end frameworks: NodeJS, Express, NestJS
+* Databases: PostgreSQL, MariaDB, MS SQL Server
 * Cloud platforms: AWS, Azure
 * Testing frameworks: Jest, Playwright
 * DevOps tools: Docker, Kubernetes
