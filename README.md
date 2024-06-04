@@ -1,2 +1,1 @@
-# roger-sprague-resume
-Roger Sprague's Resume
+# Roger Sprague's Resume
