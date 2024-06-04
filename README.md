@@ -1,11 +1,7 @@
 **Roger Sprague**
 =====================
 
-Contact Information
-------------------
-
-* Email: [semprefedelevero@gmail.com](mailto:semprefedelevero@gmail.com)
-
+* Download: [Resume PDF](https://ossroger.github.io/roger-sprague/Roger_Sprague_Resume_Tech_2024.pdf)
 
 **Summary**
 ----------
