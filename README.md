@@ -1,4 +1,4 @@
-**Roger Sprague**
+**Roger Sprague** [LinkedIn](https://www.linkedin.com/in/roger-sprague-2b577984/)
 =====================
 
 * Download: [Resume PDF](https://ossroger.github.io/roger-sprague/Roger_Sprague_Resume_Tech_2024.pdf)
